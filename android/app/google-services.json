@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "327637433145",
+    "project_id": "istanabuahemye",
+    "storage_bucket": "istanabuahemye.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327637433145:android:f1173bcc3d81d1c24086e8",
+        "android_client_info": {
+          "package_name": "com.example.istanabuah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327637433145-e6h816vj2ieo2o3g4me7ng0ms76dopse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZZcF9JdFYXcTQ-MKZkHtmmI3XUtxDCcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327637433145-e6h816vj2ieo2o3g4me7ng0ms76dopse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327637433145:android:d881a6a2afb100d64086e8",
+        "android_client_info": {
+          "package_name": "com.example.istanabuahios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327637433145-e6h816vj2ieo2o3g4me7ng0ms76dopse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZZcF9JdFYXcTQ-MKZkHtmmI3XUtxDCcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327637433145-e6h816vj2ieo2o3g4me7ng0ms76dopse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
